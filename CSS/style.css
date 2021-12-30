@@ -1,0 +1,63 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+            /* Header CSS Start Here */
+.header{
+    background-image: url('../Images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.text p{
+    font-size: 25px;
+}
+.text h1{
+    font-size: 70px;
+}
+.text a{
+    text-decoration: none;
+    background-color: none;
+    padding: 10px 40px;
+    color: white;   
+}
+.blockquote p{
+    padding: 25px;
+}
+            /* Header CSS End Here */
+
+            /* Banner CSS Start Here */
+
+            /* Banner CSS End Here */
+
+            /* Feature CSS Start Here */
+.fa-edge{
+    font-size: 70px;
+}
+.fa-user-alt{
+    font-size: 70px;
+}
+.fa-tablet-alt{
+    font-size: 70px;
+}
+.fa-video{
+    font-size: 70px;
+}
+.fa-star-of-david{
+    font-size: 70px;
+}
+.fa-camera-retro{
+    font-size: 70px;
+}
+            /* Feature CSS End Here */
+
+            /* Subscribe CSS Section Start here */
+
+
+            /* Subscribe CSS Section End here */
+
+            /* Footer CSS Start Here */
+
+
+            /* Footer CSS End Here */
+
